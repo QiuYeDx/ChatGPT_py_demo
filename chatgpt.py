@@ -3,7 +3,7 @@
 import os
 
 import openai
-openai.api_key = "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"
+openai.api_key = "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"
 
 def fetchAPI(input):
   print("组织语言中, 请稍后...")
