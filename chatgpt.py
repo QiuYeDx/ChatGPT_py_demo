@@ -1,5 +1,9 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+import os
+
 import openai
-openai.api_key = "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"
+openai.api_key = "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"
 
 def fetchAPI(input):
   print("组织语言中, 请稍后...")
